@@ -1,0 +1,12 @@
+body {
+    color: tomato;
+    font-family: Arial;
+    background-color: #f7ede6;
+}
+
+footer{
+    font-style: italic;
+    border: solid;
+    border-radius: 25px;
+    border-color: brown;
+}
